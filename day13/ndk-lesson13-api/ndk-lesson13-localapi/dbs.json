@@ -1,0 +1,25 @@
+{
+    "users":[
+        {
+            "fullname":"Nguyễn đức khương",
+            "age":19,
+            "class":"K23CNT2"
+        },
+        {
+            "fullname":"Nguyễn đức A",
+            "age":20,
+            "class":"K23qtkd"
+        },
+        {
+            "fullname":"Nguyễn đức BB",
+            "age":30,
+            "class":"K23qhcc"
+        }
+    ],
+    "students":[
+        {
+            "studentsId":"SV0012",
+            "students":"SV00345"
+        }
+    ]
+}
