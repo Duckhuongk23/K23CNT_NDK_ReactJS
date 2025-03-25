@@ -29,7 +29,14 @@ export default function ndkreadapilocal() {
             </thead>
             <tbody>
                 {
-                    ndkListUser
+                    ndkListUser.map((ndkItem, index)=>{
+                        return (
+                            <tr>
+                                <td>{ndkItem.fullname}</td>
+                                <td>{ndkItem.age}</td>
+                            </tr>
+                        )
+                    })    
                 }
             </tbody>
         </table>
